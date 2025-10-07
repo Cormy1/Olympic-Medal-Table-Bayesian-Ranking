@@ -39,7 +39,7 @@ The algorithm supports several prior specifications, each defined in `R/jags_mod
 | **`logit-normal`** | $\text{logit}(p_c) \sim N(\mu, \tau^{-1})$ | heavyier tail prior|
 | **`mixture-beta`** | Mixture of multiple Beta components | Should capture multimodal medal-performance distributions - if they exist. |
 
-All models assume the number of medal-winning athletes for a country follows Poisson processes conditioned on these probabilities.  
+All models assume the number of medal-winning athletes for a country follows Poisson processes
 
 ---
 
@@ -49,7 +49,7 @@ The project uses the **{targets}** framework for automation. Key pipeline stages
 
 | Target | Function | Purpose |
 |---------|-----------|----------|
-| `medalcounts` | Load CSV medal data | Input data per Olympic Games |
+| `medalcounts` | Load CSV medal data | Input data per Olympic Games. See **INSERT LINK TO REPOSITORY** for how this might be done |
 | `model_datalist` | `make_model_list()` | Prepare model inputs |
 | `jags_beta` | `jags_model()` | Select prior model type |
 | `mcmc_beta` | `jags_run()` | Run Gibbs sampling in JAGS |
