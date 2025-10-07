@@ -49,7 +49,7 @@ The project uses the **{targets}** framework for automation. Key pipeline stages
 
 | Target | Function | Purpose |
 |---------|-----------|----------|
-| `medalcounts` | Load CSV medal data | Input data per Olympic Games. See **INSERT LINK TO REPOSITORY** for how this might be done |
+| `medalcounts` | Load CSV medal data | Input data per Olympic Games. See [here](https://github.com/Cormy1/Processing-of-Medal-Data-for-Olympics) for how this might be done |
 | `model_datalist` | `make_model_list()` | Prepare model inputs |
 | `jags_beta` | `jags_model()` | Select prior model type |
 | `mcmc_beta` | `jags_run()` | Run Gibbs sampling in JAGS |
