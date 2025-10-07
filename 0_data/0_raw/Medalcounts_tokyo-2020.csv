@@ -1,0 +1,207 @@
+"","country","iso_a3","slug_game","competed","total_pop_july","Medals.1","Medals.2","Medals.3","Medals.4","Medals.5","Medals.team","Medals.1.team","Medals.total","Medals.unique"
+"1","Afghanistan","AFG","tokyo-2020",TRUE,4e+07,0,0,0,0,0,0,0,0,0
+"2","Albania","ALB","tokyo-2020",TRUE,2850000,0,0,0,0,0,0,0,0,0
+"3","Algeria","DZA","tokyo-2020",TRUE,44761000,0,0,0,0,0,0,0,0,0
+"4","American Samoa","ASM","tokyo-2020",TRUE,49000,0,0,0,0,0,0,0,0,0
+"5","Andorra","AND","tokyo-2020",TRUE,78000,0,0,0,0,0,0,0,0,0
+"6","Angola","AGO","tokyo-2020",TRUE,34532000,0,0,0,0,0,0,0,0,0
+"7","Antigua and Barbuda","ATG","tokyo-2020",TRUE,92000,0,0,0,0,0,0,0,0,0
+"8","Argentina","ARG","tokyo-2020",TRUE,45312000,0,0,0,0,0,3,3,3,3
+"9","Armenia","ARM","tokyo-2020",TRUE,2870000,4,0,0,0,0,0,4,4,4
+"10","Aruba","ABW","tokyo-2020",TRUE,108000,0,0,0,0,0,0,0,0,0
+"11","Australia","AUS","tokyo-2020",TRUE,25956000,18,2,2,0,0,18,36,46,40
+"12","Austria","AUT","tokyo-2020",TRUE,8967000,7,0,0,0,0,0,7,7,7
+"13","Azerbaijan","AZE","tokyo-2020",TRUE,10234000,7,0,0,0,0,0,7,7,7
+"14","Bahamas","BHS","tokyo-2020",TRUE,396000,2,0,0,0,0,0,2,2,2
+"15","Bahrain","BHR","tokyo-2020",TRUE,1502000,1,0,0,0,0,0,1,1,1
+"16","Bangladesh","BGD","tokyo-2020",TRUE,167659000,0,0,0,0,0,0,0,0,0
+"17","Barbados","BRB","tokyo-2020",TRUE,282000,0,0,0,0,0,0,0,0,0
+"18","Belarus","BLR","tokyo-2020",TRUE,9251000,6,0,0,0,0,1,7,7,7
+"19","Belgium","BEL","tokyo-2020",TRUE,11571000,5,0,0,0,0,2,7,7,7
+"20","Belize","BLZ","tokyo-2020",TRUE,395000,0,0,0,0,0,0,0,0,0
+"21","Benin","BEN","tokyo-2020",TRUE,13413000,0,0,0,0,0,0,0,0,0
+"22","Bermuda","BMU","tokyo-2020",TRUE,65000,1,0,0,0,0,0,1,1,1
+"23","Bhutan","BTN","tokyo-2020",TRUE,775000,0,0,0,0,0,0,0,0,0
+"24","Bolivia","BOL","tokyo-2020",TRUE,11937000,0,0,0,0,0,0,0,0,0
+"25","Bosnia and Herzegovina","BIH","tokyo-2020",TRUE,3245000,0,0,0,0,0,0,0,0,0
+"26","Botswana","BWA","tokyo-2020",TRUE,2401000,0,0,0,0,0,1,1,1,1
+"27","Brazil","BRA","tokyo-2020",TRUE,209550000,15,1,0,0,0,4,19,21,20
+"28","British Virgin Islands","VGB","tokyo-2020",TRUE,38000,0,0,0,0,0,0,0,0,0
+"29","Brunei","BRN","tokyo-2020",TRUE,452000,0,0,0,0,0,0,0,0,0
+"30","Bulgaria","BGR","tokyo-2020",TRUE,6877000,5,0,0,0,0,1,6,6,6
+"31","Burkina Faso","BFA","tokyo-2020",TRUE,21995000,1,0,0,0,0,0,1,1,1
+"32","Burundi","BDI","tokyo-2020",TRUE,12965000,0,0,0,0,0,0,0,0,0
+"33","Cambodia","KHM","tokyo-2020",TRUE,16974000,0,0,0,0,0,0,0,0,0
+"34","Cameroon","CMR","tokyo-2020",TRUE,26916000,0,0,0,0,0,0,0,0,0
+"35","Canada","CAN","tokyo-2020",TRUE,38454000,11,2,0,0,0,9,20,24,22
+"36","Cape Verde","CPV","tokyo-2020",TRUE,517000,0,0,0,0,0,0,0,0,0
+"37","Cayman Islands","CYM","tokyo-2020",TRUE,70000,0,0,0,0,0,0,0,0,0
+"38","Central African Republic","CAF","tokyo-2020",TRUE,5112000,0,0,0,0,0,0,0,0,0
+"39","Chad","TCD","tokyo-2020",TRUE,17828000,0,0,0,0,0,0,0,0,0
+"40","Chile","CHL","tokyo-2020",TRUE,19456000,0,0,0,0,0,0,0,0,0
+"41","China","CHN","tokyo-2020",TRUE,1426437000,59,2,0,0,0,25,84,88,86
+"42","Taiwan","TWN","tokyo-2020",TRUE,23558000,9,0,0,0,0,3,12,12,12
+"43","Colombia","COL","tokyo-2020",TRUE,51188000,5,0,0,0,0,0,5,5,5
+"44","Comoros","COM","tokyo-2020",TRUE,818000,0,0,0,0,0,0,0,0,0
+"45","Republic of the Congo","COG","tokyo-2020",TRUE,5892000,0,0,0,0,0,0,0,0,0
+"46","Democratic Republic of the Congo","COD","tokyo-2020",TRUE,99149000,0,0,0,0,0,0,0,0,0
+"47","Cook Islands","COK","tokyo-2020",TRUE,15000,0,0,0,0,0,0,0,0,0
+"48","Costa Rica","CRI","tokyo-2020",TRUE,5060000,0,0,0,0,0,0,0,0,0
+"49","Ivory Coast","CIV","tokyo-2020",TRUE,29640000,1,0,0,0,0,0,1,1,1
+"50","Croatia","HRV","tokyo-2020",TRUE,3925000,5,0,0,0,0,3,8,8,8
+"51","Cuba","CUB","tokyo-2020",TRUE,11122000,14,0,0,0,0,1,15,15,15
+"52","Cyprus","CYP","tokyo-2020",TRUE,1317000,0,0,0,0,0,0,0,0,0
+"53","Czech Republic","CZE","tokyo-2020",TRUE,10531000,9,0,0,0,0,2,11,11,11
+"54","Denmark","DNK","tokyo-2020",TRUE,5857000,4,1,0,0,0,5,9,11,10
+"55","Djibouti","DJI","tokyo-2020",TRUE,1121000,0,0,0,0,0,0,0,0,0
+"56","Dominica","DMA","tokyo-2020",TRUE,67000,0,0,0,0,0,0,0,0,0
+"57","Dominican Republic","DOM","tokyo-2020",TRUE,11123000,3,0,0,0,0,2,5,5,5
+"58","Ecuador","ECU","tokyo-2020",TRUE,17682000,3,0,0,0,0,0,3,3,3
+"59","Egypt","EGY","tokyo-2020",TRUE,110957000,6,0,0,0,0,0,6,6,6
+"60","El Salvador","SLV","tokyo-2020",TRUE,6256000,0,0,0,0,0,0,0,0,0
+"61","Equatorial Guinea","GNQ","tokyo-2020",TRUE,1759000,0,0,0,0,0,0,0,0,0
+"62","Eritrea","ERI","tokyo-2020",TRUE,3350000,0,0,0,0,0,0,0,0,0
+"63","Estonia","EST","tokyo-2020",TRUE,1332000,1,0,0,0,0,1,2,2,2
+"64","Eswatini","SWZ","tokyo-2020",TRUE,1207000,0,0,0,0,0,0,0,0,0
+"65","Ethiopia","ETH","tokyo-2020",TRUE,122139000,4,0,0,0,0,0,4,4,4
+"66","Fiji","FJI","tokyo-2020",TRUE,917000,0,0,0,0,0,2,2,2,2
+"67","Finland","FIN","tokyo-2020",TRUE,5541000,2,0,0,0,0,0,2,2,2
+"68","France","FRA","tokyo-2020",TRUE,66084000,16,0,0,0,0,17,33,33,33
+"69","Gabon","GAB","tokyo-2020",TRUE,2377000,0,0,0,0,0,0,0,0,0
+"70","The Gambia","GMB","tokyo-2020",TRUE,2576000,0,0,0,0,0,0,0,0,0
+"71","Georgia","GEO","tokyo-2020",TRUE,3788000,8,0,0,0,0,0,8,8,8
+"72","Germany","DEU","tokyo-2020",TRUE,83697000,19,1,0,0,0,16,35,37,36
+"73","Ghana","GHA","tokyo-2020",TRUE,32519000,1,0,0,0,0,0,1,1,1
+"74","Great Britain","GBR","tokyo-2020",TRUE,67669000,43,1,0,0,0,20,63,65,64
+"75","Greece","GRC","tokyo-2020",TRUE,10580000,3,0,0,0,0,1,4,4,4
+"76","Grenada","GRD","tokyo-2020",TRUE,117000,1,0,0,0,0,0,1,1,1
+"77","Guam","GUM","tokyo-2020",TRUE,164000,0,0,0,0,0,0,0,0,0
+"78","Guatemala","GTM","tokyo-2020",TRUE,17599000,0,0,0,0,0,0,0,0,0
+"79","Guinea","GIN","tokyo-2020",TRUE,13711000,0,0,0,0,0,0,0,0,0
+"80","Guinea-Bissau","GNB","tokyo-2020",TRUE,2059000,0,0,0,0,0,0,0,0,0
+"81","Guyana[GUY]","GUY","tokyo-2020",TRUE,815000,0,0,0,0,0,0,0,0,0
+"82","Haiti","HTI","tokyo-2020",TRUE,11375000,0,0,0,0,0,0,0,0,0
+"83","Honduras","HND","tokyo-2020",TRUE,10290000,0,0,0,0,0,0,0,0,0
+"84","Hong Kong","HKG","tokyo-2020",TRUE,7485000,3,1,0,0,0,1,4,6,5
+"85","Hungary","HUN","tokyo-2020",TRUE,9708000,13,1,0,0,0,5,18,20,19
+"86","Iceland","ISL","tokyo-2020",TRUE,373000,0,0,0,0,0,0,0,0,0
+"87","India","IND","tokyo-2020",TRUE,1414204000,6,0,0,0,0,1,7,7,7
+"88","Indonesia","IDN","tokyo-2020",TRUE,276758000,4,0,0,0,0,1,5,5,5
+"89","Iran","IRN","tokyo-2020",TRUE,88455000,7,0,0,0,0,0,7,7,7
+"90","Iraq","IRQ","tokyo-2020",TRUE,43071000,0,0,0,0,0,0,0,0,0
+"91","Ireland","IRL","tokyo-2020",TRUE,5028000,2,0,0,0,0,2,4,4,4
+"92","Israel","ISR","tokyo-2020",TRUE,8943000,3,0,0,0,0,1,4,4,4
+"93","Italy","ITA","tokyo-2020",TRUE,59729000,26,1,0,0,0,12,38,40,39
+"94","Jamaica","JAM","tokyo-2020",TRUE,2838000,5,1,0,0,0,2,7,9,8
+"95","Japan","JPN","tokyo-2020",TRUE,125679000,43,2,0,0,0,11,54,58,56
+"96","Jordan","JOR","tokyo-2020",TRUE,11066000,2,0,0,0,0,0,2,2,2
+"97","Kazakhstan","KAZ","tokyo-2020",TRUE,19744000,8,0,0,0,0,0,8,8,8
+"98","Kenya","KEN","tokyo-2020",TRUE,53219000,10,0,0,0,0,0,10,10,10
+"99","Kiribati","KIR","tokyo-2020",TRUE,128000,0,0,0,0,0,0,0,0,0
+"100","North Korea","PRK","tokyo-2020",FALSE,26233000,0,0,0,0,0,0,0,0,0
+"101","South Korea","KOR","tokyo-2020",TRUE,51848000,12,0,0,0,0,8,20,20,20
+"102","Kosovo","XKX","tokyo-2020",TRUE,1741000,2,0,0,0,0,0,2,2,2
+"103","Kuwait","KWT","tokyo-2020",TRUE,4361000,1,0,0,0,0,0,1,1,1
+"104","Kyrgyzstan","KGZ","tokyo-2020",TRUE,6820000,3,0,0,0,0,0,3,3,3
+"105","Laos","LAO","tokyo-2020",TRUE,7453000,0,0,0,0,0,0,0,0,0
+"106","Latvia","LVA","tokyo-2020",TRUE,1886000,1,0,0,0,0,1,2,2,2
+"107","Lebanon","LBN","tokyo-2020",TRUE,5718000,0,0,0,0,0,0,0,0,0
+"108","Lesotho","LSO","tokyo-2020",TRUE,2262000,0,0,0,0,0,0,0,0,0
+"109","Liberia","LBR","tokyo-2020",TRUE,5259000,0,0,0,0,0,0,0,0,0
+"110","Libya","LBY","tokyo-2020",TRUE,7135000,0,0,0,0,0,0,0,0,0
+"111","Liechtenstein","LIE","tokyo-2020",TRUE,39000,0,0,0,0,0,0,0,0,0
+"112","Lithuania","LTU","tokyo-2020",TRUE,2794000,1,0,0,0,0,0,1,1,1
+"113","Luxembourg","LUX","tokyo-2020",TRUE,640000,0,0,0,0,0,0,0,0,0
+"114","Madagascar","MDG","tokyo-2020",TRUE,29691000,0,0,0,0,0,0,0,0,0
+"115","Malawi","MWI","tokyo-2020",TRUE,20047000,0,0,0,0,0,0,0,0,0
+"116","Malaysia","MYS","tokyo-2020",TRUE,34282000,1,0,0,0,0,1,2,2,2
+"117","Maldives","MDV","tokyo-2020",TRUE,516000,0,0,0,0,0,0,0,0,0
+"118","Mali","MLI","tokyo-2020",TRUE,22389000,0,0,0,0,0,0,0,0,0
+"119","Malta","MLT","tokyo-2020",TRUE,524000,0,0,0,0,0,0,0,0,0
+"120","Marshall Islands","MHL","tokyo-2020",TRUE,41000,0,0,0,0,0,0,0,0,0
+"121","Mauritania","MRT","tokyo-2020",TRUE,4735000,0,0,0,0,0,0,0,0,0
+"122","Mauritius","MUS","tokyo-2020",TRUE,1280000,0,0,0,0,0,0,0,0,0
+"123","Mexico","MEX","tokyo-2020",TRUE,127648000,1,0,0,0,0,3,4,4,4
+"124","Federated States of Micronesia","FSM","tokyo-2020",TRUE,112000,0,0,0,0,0,0,0,0,0
+"125","Moldova","MDA","tokyo-2020",TRUE,3024000,1,0,0,0,0,0,1,1,1
+"126","Monaco","MCO","tokyo-2020",TRUE,39000,0,0,0,0,0,0,0,0,0
+"127","Mongolia","MNG","tokyo-2020",TRUE,3340000,4,0,0,0,0,0,4,4,4
+"128","Montenegro","MNE","tokyo-2020",TRUE,604000,0,0,0,0,0,0,0,0,0
+"129","Morocco","MAR","tokyo-2020",TRUE,36954000,1,0,0,0,0,0,1,1,1
+"130","Mozambique","MOZ","tokyo-2020",TRUE,31708000,0,0,0,0,0,0,0,0,0
+"131","Myanmar","MMR","tokyo-2020",TRUE,53387000,0,0,0,0,0,0,0,0,0
+"132","Namibia","NAM","tokyo-2020",TRUE,2811000,1,0,0,0,0,0,1,1,1
+"133","Nauru","NRU","tokyo-2020",TRUE,12000,0,0,0,0,0,0,0,0,0
+"134","Nepal","NPL","tokyo-2020",TRUE,29475000,0,0,0,0,0,0,0,0,0
+"135","Netherlands","NLD","tokyo-2020",TRUE,17731000,17,3,1,0,0,10,27,36,31
+"136","New Zealand","NZL","tokyo-2020",TRUE,5108000,9,1,0,0,0,9,18,20,19
+"137","Nicaragua","NIC","tokyo-2020",TRUE,6645000,0,0,0,0,0,0,0,0,0
+"138","Niger","NER","tokyo-2020",TRUE,24502000,0,0,0,0,0,0,0,0,0
+"139","Nigeria","NGA","tokyo-2020",TRUE,218529000,2,0,0,0,0,0,2,2,2
+"140","North Macedonia","MKD","tokyo-2020",TRUE,1851000,1,0,0,0,0,0,1,1,1
+"141","Norway","NOR","tokyo-2020",TRUE,5408000,6,0,0,0,0,2,8,8,8
+"142","Oman","OMN","tokyo-2020",TRUE,4500000,0,0,0,0,0,0,0,0,0
+"143","Pakistan","PAK","tokyo-2020",TRUE,239478000,0,0,0,0,0,0,0,0,0
+"144","Palau","PLW","tokyo-2020",TRUE,18000,0,0,0,0,0,0,0,0,0
+"145","Palestine","PSE","tokyo-2020",TRUE,5185000,0,0,0,0,0,0,0,0,0
+"146","Panama","PAN","tokyo-2020",TRUE,4345000,0,0,0,0,0,0,0,0,0
+"147","Papua New Guinea","PNG","tokyo-2020",TRUE,10013000,0,0,0,0,0,0,0,0,0
+"148","Paraguay","PRY","tokyo-2020",TRUE,6684000,0,0,0,0,0,0,0,0,0
+"149","Peru","PER","tokyo-2020",TRUE,33156000,0,0,0,0,0,0,0,0,0
+"150","Philippines","PHL","tokyo-2020",TRUE,113101000,4,0,0,0,0,0,4,4,4
+"151","Poland","POL","tokyo-2020",TRUE,38040000,8,0,0,0,0,6,14,14,14
+"152","Portugal","PRT","tokyo-2020",TRUE,10391000,4,0,0,0,0,0,4,4,4
+"153","Puerto Rico","PRI","tokyo-2020",TRUE,3253000,1,0,0,0,0,0,1,1,1
+"154","Qatar","QAT","tokyo-2020",TRUE,2815000,2,0,0,0,0,1,3,3,3
+"155","Romania","ROU","tokyo-2020",TRUE,19248000,1,0,0,0,0,3,4,4,4
+"156","Russia","RUS","tokyo-2020",TRUE,145836000,37,5,0,0,0,24,61,71,66
+"157","Rwanda","RWA","tokyo-2020",TRUE,13355000,0,0,0,0,0,0,0,0,0
+"158","Saint Kitts and Nevis","KNA","tokyo-2020",TRUE,47000,0,0,0,0,0,0,0,0,0
+"159","Saint Lucia","LCA","tokyo-2020",TRUE,179000,0,0,0,0,0,0,0,0,0
+"160","Saint Vincent and the Grenadines","VCT","tokyo-2020",TRUE,103000,0,0,0,0,0,0,0,0,0
+"161","Samoa","WSM","tokyo-2020",TRUE,214000,0,0,0,0,0,0,0,0,0
+"162","San Marino","SMR","tokyo-2020",TRUE,35000,2,0,0,0,0,1,3,3,3
+"163","São Tomé and Príncipe","STP","tokyo-2020",TRUE,222000,0,0,0,0,0,0,0,0,0
+"164","Saudi Arabia","SAU","tokyo-2020",TRUE,31328000,1,0,0,0,0,0,1,1,1
+"165","Senegal","SEN","tokyo-2020",TRUE,17221000,0,0,0,0,0,0,0,0,0
+"166","Serbia","SRB","tokyo-2020",TRUE,6835000,6,0,0,0,0,3,9,9,9
+"167","Seychelles","SYC","tokyo-2020",TRUE,123000,0,0,0,0,0,0,0,0,0
+"168","Sierra Leone","SLE","tokyo-2020",TRUE,8095000,0,0,0,0,0,0,0,0,0
+"169","Singapore","SGP","tokyo-2020",TRUE,5546000,0,0,0,0,0,0,0,0,0
+"170","Slovakia","SVK","tokyo-2020",TRUE,5443000,3,0,0,0,0,1,4,4,4
+"171","Slovenia","SVN","tokyo-2020",TRUE,2113000,5,0,0,0,0,0,5,5,5
+"172","Solomon Islands","SLB","tokyo-2020",TRUE,763000,0,0,0,0,0,0,0,0,0
+"173","Somalia","SOM","tokyo-2020",TRUE,17271000,0,0,0,0,0,0,0,0,0
+"174","South Africa","ZAF","tokyo-2020",TRUE,61503000,1,1,0,0,0,0,1,3,2
+"175","Spain","ESP","tokyo-2020",TRUE,47736000,11,0,0,0,0,6,17,17,17
+"176","Sri Lanka","LKA","tokyo-2020",TRUE,22700000,0,0,0,0,0,0,0,0,0
+"177","Sudan","SDN","tokyo-2020",TRUE,48067000,0,0,0,0,0,0,0,0,0
+"178","South Sudan","SSD","tokyo-2020",TRUE,10866000,0,0,0,0,0,0,0,0,0
+"179","Suriname","SUR","tokyo-2020",TRUE,618000,0,0,0,0,0,0,0,0,0
+"180","Sweden","SWE","tokyo-2020",TRUE,10416000,6,0,0,0,0,3,9,9,9
+"181","Switzerland","CHE","tokyo-2020",TRUE,8707000,9,1,0,0,0,2,11,13,12
+"182","Syria","SYR","tokyo-2020",TRUE,21629000,1,0,0,0,0,0,1,1,1
+"183","Tajikistan","TJK","tokyo-2020",TRUE,9967000,0,0,0,0,0,0,0,0,0
+"184","Tanzania","TZA","tokyo-2020",TRUE,62830000,0,0,0,0,0,0,0,0,0
+"185","Thailand","THA","tokyo-2020",TRUE,71727000,2,0,0,0,0,0,2,2,2
+"186","East Timor","TLS","tokyo-2020",TRUE,1350000,0,0,0,0,0,0,0,0,0
+"187","Togo","TGO","tokyo-2020",TRUE,8878000,0,0,0,0,0,0,0,0,0
+"188","Tonga","TON","tokyo-2020",TRUE,105000,0,0,0,0,0,0,0,0,0
+"189","Trinidad and Tobago","TTO","tokyo-2020",TRUE,1488000,0,0,0,0,0,0,0,0,0
+"190","Tunisia","TUN","tokyo-2020",TRUE,12049000,2,0,0,0,0,0,2,2,2
+"191","Turkey","TUR","tokyo-2020",TRUE,86686000,13,0,0,0,0,0,13,13,13
+"192","Turkmenistan","TKM","tokyo-2020",TRUE,7092000,1,0,0,0,0,0,1,1,1
+"193","Tuvalu","TUV","tokyo-2020",TRUE,10000,0,0,0,0,0,0,0,0,0
+"194","Uganda","UGA","tokyo-2020",TRUE,45911000,2,1,0,0,0,0,2,4,3
+"195","Ukraine","UKR","tokyo-2020",TRUE,44299000,13,1,0,0,0,4,17,19,18
+"196","United Arab Emirates","ARE","tokyo-2020",TRUE,9789000,0,0,0,0,0,0,0,0,0
+"197","United States","USA","tokyo-2020",TRUE,340161000,67,6,2,0,0,28,95,113,103
+"198","Uruguay","URY","tokyo-2020",TRUE,3397000,0,0,0,0,0,0,0,0,0
+"199","Uzbekistan","UZB","tokyo-2020",TRUE,34244000,5,0,0,0,0,0,5,5,5
+"200","Vanuatu","VUT","tokyo-2020",TRUE,306000,0,0,0,0,0,0,0,0,0
+"201","Venezuela","VEN","tokyo-2020",TRUE,28238000,4,0,0,0,0,0,4,4,4
+"202","Vietnam","VNM","tokyo-2020",TRUE,98935000,0,0,0,0,0,0,0,0,0
+"203","Virgin Islands","VIR","tokyo-2020",TRUE,87000,0,0,0,0,0,0,0,0,0
+"204","Yemen","YEM","tokyo-2020",TRUE,37140000,0,0,0,0,0,0,0,0,0
+"205","Zambia","ZMB","tokyo-2020",TRUE,19604000,0,0,0,0,0,0,0,0,0
+"206","Zimbabwe","ZWE","tokyo-2020",TRUE,15797000,0,0,0,0,0,0,0,0,0

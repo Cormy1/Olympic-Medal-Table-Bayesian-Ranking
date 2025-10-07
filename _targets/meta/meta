@@ -1,0 +1,22 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+jags_beta_paris.2024|stem|f58fc5404dead9f4|4319afb2e946e0c4|a92dd2107aafe085|-17744772||t20368.6813426388s|s476b|476|rds|local|vector|||0.338||
+medalcounts_paris.2024|stem|bd678ae060ade396|0e3586c5ba7866fc|2c530c1562a7fbd1|-491555611|0_data/0_raw/Medalcounts_paris-2024.csv|t20366.7456877819s|s14188b|14188|file|local|vector|||0||
+model_datalist_paris.2024|stem|27e2f9ee1715e37f|a5801114a020d98a|d7b9e59d0711af76|-1947929022||t20368.6813430499s|s1574b|1574|rds|local|vector|||0.01||
+mcmc_beta_paris.2024|stem|4360578df6ada3c6|75d837f971c8abae|de3c8c14522db5b6|-503496064||t20368.6848792562s|s93452708b|93452708|rds|local|vector|||303.569||
+procces_mcmc_beta_paris.2024|stem|3dc1909ab6af3213|3e06a36dec175c33|5fab40fc94ae0363|2021610109||t20368.6848886096s|s15387631b|15387631|rds|local|vector|||0.188||
+probs_beta_paris.2024|stem|a079b8566850b7d6|0e16a02a853977cf|a88a3509fefc6288|-850293758||t20368.6848907494s|s7194b|7194|rds|local|vector|||0.139||
+posterior_ranks_beta_paris.2024|stem|324da934b3898189|c8d053f5e3831aba|afa859ff9858ef60|2026571509||t20368.6848960308s|s1111734b|1111734|rds|local|vector|||0.193||
+ranks_beta_paris.2024|stem|7260d23d9c744c67|8d2d2bece245e244|b1a06ff14200e7b6|-1374199107||t20368.6848970024s|s2099b|2099|rds|local|vector|||0.065||
+results.ranking_paris.2024|stem|b301aaf858c1322b|167b394ee1d74c60|45fd4a89e4a9e2f5|2076906093||t20368.684897224s|s18540b|18540|rds|local|vector|||0.014||
+export_results_paris.2024|stem|10b68c653d467be1|0905bae3250668fa|da56f63ad6ae331c|1021960750|0_data/1_output/BayesianRanking_paris-2024.csv|t20368.6848973005s|s55467b|55467|file|local|vector|||0.002||
+shrinkage_medalwinner_paris.2024|stem||9c2db34898b2fa30|71db805ad723a9e7|1037292493||t20368.684898274s||0|rds|local|vector|||0.101|There was 1 warning in `mutate()`. ℹ In argument: `iso_a2 = countrycode::countrycode(iso_a3, 'iso3c', 'iso2c')`. Caused by warning: ! Some values were not matched unambiguously: XKX|Cannot find directory 2_Figures/1_Shrinkage_of_Medallists. ℹ Please supply an existing directory or use `create.dir = TRUE`.
+post_rank_rank|function|692f5f034b98d06a
+games|object|f77090c4f9d6d425
+make_model_list|function|e5bbc421895fdaa1
+rank_mcmc|function|eb2febc9cccb4de6
+jags_run|function|8a57203c85298e3f
+jags_model|function|836d83aaaeed1467
+post_prob_summary|function|47ab2a190c830622
+tidy_mcmc|function|209fb199a640d850
+results|function|076a67031aaa0811
+shrinkage_plot|function|dba4300473b6dae5

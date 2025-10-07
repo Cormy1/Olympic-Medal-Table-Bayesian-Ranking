@@ -1,0 +1,207 @@
+"","country","iso_a3","slug_game","competed","total_pop_july","Medals.1","Medals.2","Medals.3","Medals.4","Medals.5","Medals.team","Medals.1.team","Medals.total","Medals.unique"
+"1","Afghanistan","AFG","beijing-2008",TRUE,26483000,1,0,0,0,0,0,1,1,1
+"2","Albania","ALB","beijing-2008",TRUE,2993000,0,0,0,0,0,0,0,0,0
+"3","Algeria","DZA","beijing-2008",TRUE,34817000,2,0,0,0,0,0,2,2,2
+"4","American Samoa","ASM","beijing-2008",TRUE,56000,0,0,0,0,0,0,0,0,0
+"5","Andorra","AND","beijing-2008",TRUE,83000,0,0,0,0,0,0,0,0,0
+"6","Angola","AGO","beijing-2008",TRUE,21579000,0,0,0,0,0,0,0,0,0
+"7","Antigua and Barbuda","ATG","beijing-2008",TRUE,83000,0,0,0,0,0,0,0,0,0
+"8","Argentina","ARG","beijing-2008",TRUE,40424000,1,0,0,0,0,5,6,6,6
+"9","Armenia","ARM","beijing-2008",TRUE,2960000,5,0,0,0,0,0,5,5,5
+"10","Aruba","ABW","beijing-2008",TRUE,98000,0,0,0,0,0,0,0,0,0
+"11","Australia","AUS","beijing-2008",TRUE,21371000,15,6,0,0,0,19,34,46,40
+"12","Austria","AUT","beijing-2008",TRUE,8323000,3,0,0,0,0,0,3,3,3
+"13","Azerbaijan","AZE","beijing-2008",TRUE,8943000,6,0,0,0,0,0,6,6,6
+"14","Bahamas","BHS","beijing-2008",TRUE,358000,1,0,0,0,0,1,2,2,2
+"15","Bahrain","BHR","beijing-2008",TRUE,1121000,0,0,0,0,0,0,0,0,0
+"16","Bangladesh","BGD","beijing-2008",TRUE,149474000,0,0,0,0,0,0,0,0,0
+"17","Barbados","BRB","beijing-2008",TRUE,273000,0,0,0,0,0,0,0,0,0
+"18","Belarus","BLR","beijing-2008",TRUE,9529000,9,0,0,0,0,5,14,14,14
+"19","Belgium","BEL","beijing-2008",TRUE,10710000,1,0,0,0,0,1,2,2,2
+"20","Belize","BLZ","beijing-2008",TRUE,304000,0,0,0,0,0,0,0,0,0
+"21","Benin","BEN","beijing-2008",TRUE,9228000,0,0,0,0,0,0,0,0,0
+"22","Bermuda","BMU","beijing-2008",TRUE,63000,0,0,0,0,0,0,0,0,0
+"23","Bhutan","BTN","beijing-2008",TRUE,686000,0,0,0,0,0,0,0,0,0
+"24","Bolivia","BOL","beijing-2008",TRUE,9851000,0,0,0,0,0,0,0,0,0
+"25","Bosnia and Herzegovina","BIH","beijing-2008",TRUE,3948000,0,0,0,0,0,0,0,0,0
+"26","Botswana","BWA","beijing-2008",TRUE,1950000,0,0,0,0,0,0,0,0,0
+"27","Brazil","BRA","beijing-2008",TRUE,190367000,5,1,0,0,0,10,15,17,16
+"28","British Virgin Islands","VGB","beijing-2008",TRUE,26000,0,0,0,0,0,0,0,0,0
+"29","Brunei","BRN","beijing-2008",FALSE,378000,0,0,0,0,0,0,0,0,0
+"30","Bulgaria","BGR","beijing-2008",TRUE,7536000,5,0,0,0,0,0,5,5,5
+"31","Burkina Faso","BFA","beijing-2008",TRUE,15258000,0,0,0,0,0,0,0,0,0
+"32","Burundi","BDI","beijing-2008",TRUE,8506000,0,0,0,0,0,0,0,0,0
+"33","Cambodia","KHM","beijing-2008",TRUE,14053000,0,0,0,0,0,0,0,0,0
+"34","Cameroon","CMR","beijing-2008",TRUE,18574000,1,0,0,0,0,0,1,1,1
+"35","Canada","CAN","beijing-2008",TRUE,33449000,15,0,0,0,0,5,20,20,20
+"36","Cape Verde","CPV","beijing-2008",TRUE,501000,0,0,0,0,0,0,0,0,0
+"37","Cayman Islands","CYM","beijing-2008",TRUE,51000,0,0,0,0,0,0,0,0,0
+"38","Central African Republic","CAF","beijing-2008",TRUE,4559000,0,0,0,0,0,0,0,0,0
+"39","Chad","TCD","beijing-2008",TRUE,11476000,0,0,0,0,0,0,0,0,0
+"40","Chile","CHL","beijing-2008",TRUE,16839000,1,0,0,0,0,0,1,1,1
+"41","China","CHN","beijing-2008",TRUE,1333821000,65,4,0,0,0,27,92,100,96
+"42","Taiwan","TWN","beijing-2008",TRUE,23086000,4,0,0,0,0,0,4,4,4
+"43","Colombia","COL","beijing-2008",TRUE,43759000,3,0,0,0,0,0,3,3,3
+"44","Comoros","COM","beijing-2008",TRUE,629000,0,0,0,0,0,0,0,0,0
+"45","Republic of the Congo","COG","beijing-2008",TRUE,4114000,0,0,0,0,0,0,0,0,0
+"46","Democratic Republic of the Congo","COD","beijing-2008",TRUE,64391000,0,0,0,0,0,0,0,0,0
+"47","Cook Islands","COK","beijing-2008",TRUE,16000,0,0,0,0,0,0,0,0,0
+"48","Costa Rica","CRI","beijing-2008",TRUE,4440000,0,0,0,0,0,0,0,0,0
+"49","Ivory Coast","CIV","beijing-2008",TRUE,21514000,0,0,0,0,0,0,0,0,0
+"50","Croatia","HRV","beijing-2008",TRUE,4315000,5,0,0,0,0,0,5,5,5
+"51","Cuba","CUB","beijing-2008",TRUE,11292000,29,0,0,0,0,1,30,30,30
+"52","Cyprus","CYP","beijing-2008",TRUE,1091000,0,0,0,0,0,0,0,0,0
+"53","Czech Republic","CZE","beijing-2008",TRUE,10378000,4,1,0,0,0,1,5,7,6
+"54","Denmark","DNK","beijing-2008",TRUE,5494000,1,0,0,0,0,6,7,7,7
+"55","Djibouti","DJI","beijing-2008",TRUE,893000,0,0,0,0,0,0,0,0,0
+"56","Dominica","DMA","beijing-2008",TRUE,69000,0,0,0,0,0,0,0,0,0
+"57","Dominican Republic","DOM","beijing-2008",TRUE,9573000,2,0,0,0,0,0,2,2,2
+"58","Ecuador","ECU","beijing-2008",TRUE,14575000,1,0,0,0,0,0,1,1,1
+"59","Egypt","EGY","beijing-2008",TRUE,85865000,2,0,0,0,0,0,2,2,2
+"60","El Salvador","SLV","beijing-2008",TRUE,6029000,0,0,0,0,0,0,0,0,0
+"61","Equatorial Guinea","GNQ","beijing-2008",TRUE,1085000,0,0,0,0,0,0,0,0,0
+"62","Eritrea","ERI","beijing-2008",TRUE,2816000,0,0,0,0,0,0,0,0,0
+"63","Estonia","EST","beijing-2008",TRUE,1337000,1,0,0,0,0,1,2,2,2
+"64","Eswatini","SWZ","beijing-2008",TRUE,1098000,0,0,0,0,0,0,0,0,0
+"65","Ethiopia","ETH","beijing-2008",TRUE,85544000,3,2,0,0,0,0,3,7,5
+"66","Fiji","FJI","beijing-2008",TRUE,903000,0,0,0,0,0,0,0,0,0
+"67","Finland","FIN","beijing-2008",TRUE,5313000,3,0,0,0,0,1,4,4,4
+"68","France","FRA","beijing-2008",TRUE,62780000,29,2,0,0,0,10,39,43,41
+"69","Gabon","GAB","beijing-2008",TRUE,1607000,0,0,0,0,0,0,0,0,0
+"70","The Gambia","GMB","beijing-2008",TRUE,1818000,0,0,0,0,0,0,0,0,0
+"71","Georgia","GEO","beijing-2008",TRUE,3941000,7,0,0,0,0,0,7,7,7
+"72","Germany","DEU","beijing-2008",TRUE,81111000,22,1,0,0,0,17,39,41,40
+"73","Ghana","GHA","beijing-2008",TRUE,24250000,0,0,0,0,0,0,0,0,0
+"74","Great Britain","GBR","beijing-2008",TRUE,62027000,31,3,0,0,0,14,45,51,48
+"75","Greece","GRC","beijing-2008",TRUE,11077000,1,0,0,0,0,2,3,3,3
+"76","Grenada","GRD","beijing-2008",TRUE,111000,0,0,0,0,0,0,0,0,0
+"77","Guam","GUM","beijing-2008",TRUE,166000,0,0,0,0,0,0,0,0,0
+"78","Guatemala","GTM","beijing-2008",TRUE,13935000,0,0,0,0,0,0,0,0,0
+"79","Guinea","GIN","beijing-2008",TRUE,9899000,0,0,0,0,0,0,0,0,0
+"80","Guinea-Bissau","GNB","beijing-2008",TRUE,1488000,0,0,0,0,0,0,0,0,0
+"81","Guyana[GUY]","GUY","beijing-2008",TRUE,755000,0,0,0,0,0,0,0,0,0
+"82","Haiti","HTI","beijing-2008",TRUE,9531000,0,0,0,0,0,0,0,0,0
+"83","Honduras","HND","beijing-2008",TRUE,8013000,0,0,0,0,0,0,0,0,0
+"84","Hong Kong","HKG","beijing-2008",TRUE,7021000,0,0,0,0,0,0,0,0,0
+"85","Hungary","HUN","beijing-2008",TRUE,10017000,3,0,1,0,0,4,7,10,8
+"86","Iceland","ISL","beijing-2008",TRUE,318000,0,0,0,0,0,1,1,1,1
+"87","India","IND","beijing-2008",TRUE,1207931000,3,0,0,0,0,0,3,3,3
+"88","Indonesia","IDN","beijing-2008",TRUE,240158000,4,0,0,0,0,2,6,6,6
+"89","Iran","IRN","beijing-2008",TRUE,75514000,2,0,0,0,0,0,2,2,2
+"90","Iraq","IRQ","beijing-2008",TRUE,28971000,0,0,0,0,0,0,0,0,0
+"91","Ireland","IRL","beijing-2008",TRUE,4486000,3,0,0,0,0,0,3,3,3
+"92","Israel","ISR","beijing-2008",TRUE,7083000,1,0,0,0,0,0,1,1,1
+"93","Italy","ITA","beijing-2008",TRUE,59562000,21,0,0,0,0,6,27,27,27
+"94","Jamaica","JAM","beijing-2008",TRUE,2726000,5,2,0,0,0,1,6,10,8
+"95","Japan","JPN","beijing-2008",TRUE,128156000,18,1,0,0,0,5,23,25,24
+"96","Jordan","JOR","beijing-2008",TRUE,6990000,0,0,0,0,0,0,0,0,0
+"97","Kazakhstan","KAZ","beijing-2008",TRUE,16427000,9,0,0,0,0,0,9,9,9
+"98","Kenya","KEN","beijing-2008",TRUE,39206000,16,0,0,0,0,0,16,16,16
+"99","Kiribati","KIR","beijing-2008",TRUE,104000,0,0,0,0,0,0,0,0,0
+"100","North Korea","PRK","beijing-2008",TRUE,24765000,6,0,0,0,0,0,6,6,6
+"101","South Korea","KOR","beijing-2008",TRUE,48356000,19,2,0,0,0,9,28,32,30
+"102","Kosovo","XKX","beijing-2008",FALSE,1801000,0,0,0,0,0,0,0,0,0
+"103","Kuwait","KWT","beijing-2008",TRUE,2651000,0,0,0,0,0,0,0,0,0
+"104","Kyrgyzstan","KGZ","beijing-2008",TRUE,5343000,3,0,0,0,0,0,3,3,3
+"105","Laos","LAO","beijing-2008",TRUE,6149000,0,0,0,0,0,0,0,0,0
+"106","Latvia","LVA","beijing-2008",TRUE,2178000,3,0,0,0,0,0,3,3,3
+"107","Lebanon","LBN","beijing-2008",TRUE,4925000,0,0,0,0,0,0,0,0,0
+"108","Lesotho","LSO","beijing-2008",TRUE,1967000,0,0,0,0,0,0,0,0,0
+"109","Liberia","LBR","beijing-2008",TRUE,3821000,0,0,0,0,0,0,0,0,0
+"110","Libya","LBY","beijing-2008",TRUE,6235000,0,0,0,0,0,0,0,0,0
+"111","Liechtenstein","LIE","beijing-2008",TRUE,35000,0,0,0,0,0,0,0,0,0
+"112","Lithuania","LTU","beijing-2008",TRUE,3198000,5,0,0,0,0,0,5,5,5
+"113","Luxembourg","LUX","beijing-2008",TRUE,489000,0,0,0,0,0,0,0,0,0
+"114","Madagascar","MDG","beijing-2008",TRUE,20924000,0,0,0,0,0,0,0,0,0
+"115","Malawi","MWI","beijing-2008",TRUE,13976000,0,0,0,0,0,0,0,0,0
+"116","Malaysia","MYS","beijing-2008",TRUE,27570000,1,0,0,0,0,0,1,1,1
+"117","Maldives","MDV","beijing-2008",TRUE,336000,0,0,0,0,0,0,0,0,0
+"118","Mali","MLI","beijing-2008",TRUE,14941000,0,0,0,0,0,0,0,0,0
+"119","Malta","MLT","beijing-2008",TRUE,419000,0,0,0,0,0,0,0,0,0
+"120","Marshall Islands","MHL","beijing-2008",TRUE,52000,0,0,0,0,0,0,0,0,0
+"121","Mauritania","MRT","beijing-2008",TRUE,3183000,0,0,0,0,0,0,0,0,0
+"122","Mauritius","MUS","beijing-2008",TRUE,1275000,1,0,0,0,0,0,1,1,1
+"123","Mexico","MEX","beijing-2008",TRUE,110374000,3,0,0,0,0,1,4,4,4
+"124","Federated States of Micronesia","FSM","beijing-2008",TRUE,109000,0,0,0,0,0,0,0,0,0
+"125","Moldova","MDA","beijing-2008",TRUE,3780000,1,0,0,0,0,0,1,1,1
+"126","Monaco","MCO","beijing-2008",TRUE,32000,0,0,0,0,0,0,0,0,0
+"127","Mongolia","MNG","beijing-2008",TRUE,2634000,4,0,0,0,0,0,4,4,4
+"128","Montenegro","MNE","beijing-2008",TRUE,633000,0,0,0,0,0,0,0,0,0
+"129","Morocco","MAR","beijing-2008",TRUE,31607000,2,0,0,0,0,0,2,2,2
+"130","Mozambique","MOZ","beijing-2008",TRUE,21819000,0,0,0,0,0,0,0,0,0
+"131","Myanmar","MMR","beijing-2008",TRUE,48391000,0,0,0,0,0,0,0,0,0
+"132","Namibia","NAM","beijing-2008",TRUE,2047000,0,0,0,0,0,0,0,0,0
+"133","Nauru","NRU","beijing-2008",TRUE,10000,0,0,0,0,0,0,0,0,0
+"134","Nepal","NPL","beijing-2008",TRUE,26990000,0,0,0,0,0,0,0,0,0
+"135","Netherlands","NLD","beijing-2008",TRUE,16597000,8,0,0,0,0,8,16,16,16
+"136","New Zealand","NZL","beijing-2008",TRUE,4262000,6,0,0,0,0,3,9,9,9
+"137","Nicaragua","NIC","beijing-2008",TRUE,5577000,0,0,0,0,0,0,0,0,0
+"138","Niger","NER","beijing-2008",TRUE,15362000,0,0,0,0,0,0,0,0,0
+"139","Nigeria","NGA","beijing-2008",TRUE,157595000,3,0,0,0,0,2,5,5,5
+"140","North Macedonia","MKD","beijing-2008",TRUE,2071000,0,0,0,0,0,0,0,0,0
+"141","Norway","NOR","beijing-2008",TRUE,4768000,8,0,0,0,0,1,9,9,9
+"142","Oman","OMN","beijing-2008",TRUE,2627000,0,0,0,0,0,0,0,0,0
+"143","Pakistan","PAK","beijing-2008",TRUE,189499000,0,0,0,0,0,0,0,0,0
+"144","Palau","PLW","beijing-2008",TRUE,19000,0,0,0,0,0,0,0,0,0
+"145","Palestine","PSE","beijing-2008",TRUE,3829000,0,0,0,0,0,0,0,0,0
+"146","Panama","PAN","beijing-2008",TRUE,3501000,1,0,0,0,0,0,1,1,1
+"147","Papua New Guinea","PNG","beijing-2008",TRUE,7183000,0,0,0,0,0,0,0,0,0
+"148","Paraguay","PRY","beijing-2008",TRUE,5614000,0,0,0,0,0,0,0,0,0
+"149","Peru","PER","beijing-2008",TRUE,28719000,0,0,0,0,0,0,0,0,0
+"150","Philippines","PHL","beijing-2008",TRUE,92699000,0,0,0,0,0,0,0,0,0
+"151","Poland","POL","beijing-2008",TRUE,37996000,7,0,0,0,0,4,11,11,11
+"152","Portugal","PRT","beijing-2008",TRUE,10564000,2,0,0,0,0,0,2,2,2
+"153","Puerto Rico","PRI","beijing-2008",TRUE,3749000,0,0,0,0,0,0,0,0,0
+"154","Qatar","QAT","beijing-2008",TRUE,1427000,0,0,0,0,0,0,0,0,0
+"155","Romania","ROU","beijing-2008",TRUE,20719000,6,0,0,0,0,3,9,9,9
+"156","Russia","RUS","beijing-2008",TRUE,143812000,42,2,0,0,0,14,56,60,58
+"157","Rwanda","RWA","beijing-2008",TRUE,9804000,0,0,0,0,0,0,0,0,0
+"158","Saint Kitts and Nevis","KNA","beijing-2008",TRUE,47000,0,0,0,0,0,0,0,0,0
+"159","Saint Lucia","LCA","beijing-2008",TRUE,169000,0,0,0,0,0,0,0,0,0
+"160","Saint Vincent and the Grenadines","VCT","beijing-2008",TRUE,111000,0,0,0,0,0,0,0,0,0
+"161","Samoa","WSM","beijing-2008",TRUE,190000,1,0,0,0,0,0,1,1,1
+"162","San Marino","SMR","beijing-2008",TRUE,30000,0,0,0,0,0,0,0,0,0
+"163","São Tomé and Príncipe","STP","beijing-2008",TRUE,174000,0,0,0,0,0,0,0,0,0
+"164","Saudi Arabia","SAU","beijing-2008",TRUE,23288000,0,0,0,0,0,0,0,0,0
+"165","Senegal","SEN","beijing-2008",TRUE,12049000,0,0,0,0,0,0,0,0,0
+"166","Serbia","SRB","beijing-2008",TRUE,7454000,2,0,0,0,0,1,3,3,3
+"167","Seychelles","SYC","beijing-2008",TRUE,93000,0,0,0,0,0,0,0,0,0
+"168","Sierra Leone","SLE","beijing-2008",TRUE,5895000,0,0,0,0,0,0,0,0,0
+"169","Singapore","SGP","beijing-2008",TRUE,4807000,0,0,0,0,0,1,1,1,1
+"170","Slovakia","SVK","beijing-2008",TRUE,5379000,4,0,0,0,0,2,6,6,6
+"171","Slovenia","SVN","beijing-2008",TRUE,2025000,5,0,0,0,0,0,5,5,5
+"172","Solomon Islands","SLB","beijing-2008",TRUE,509000,0,0,0,0,0,0,0,0,0
+"173","Somalia","SOM","beijing-2008",TRUE,11663000,0,0,0,0,0,0,0,0,0
+"174","South Africa","ZAF","beijing-2008",TRUE,51115000,1,0,0,0,0,0,1,1,1
+"175","Spain","ESP","beijing-2008",TRUE,46235000,7,1,0,0,0,10,17,19,18
+"176","Sri Lanka","LKA","beijing-2008",TRUE,20629000,0,0,0,0,0,0,0,0,0
+"177","Sudan","SDN","beijing-2008",TRUE,33624000,1,0,0,0,0,0,1,1,1
+"178","South Sudan","SSD","beijing-2008",FALSE,8818000,0,0,0,0,0,0,0,0,0
+"179","Suriname","SUR","beijing-2008",TRUE,537000,0,0,0,0,0,0,0,0,0
+"180","Sweden","SWE","beijing-2008",TRUE,9220000,3,0,0,0,0,2,5,5,5
+"181","Switzerland","CHE","beijing-2008",TRUE,7642000,3,1,0,0,0,2,5,7,6
+"182","Syria","SYR","beijing-2008",TRUE,21637000,0,0,0,0,0,0,0,0,0
+"183","Tajikistan","TJK","beijing-2008",TRUE,7338000,2,0,0,0,0,0,2,2,2
+"184","Tanzania","TZA","beijing-2008",TRUE,42571000,0,0,0,0,0,0,0,0,0
+"185","Thailand","THA","beijing-2008",TRUE,67620000,6,0,0,0,0,0,6,6,6
+"186","East Timor","TLS","beijing-2008",TRUE,1032000,0,0,0,0,0,0,0,0,0
+"187","Togo","TGO","beijing-2008",TRUE,6369000,1,0,0,0,0,0,1,1,1
+"188","Tonga","TON","beijing-2008",TRUE,107000,0,0,0,0,0,0,0,0,0
+"189","Trinidad and Tobago","TTO","beijing-2008",TRUE,1372000,1,0,0,0,0,1,2,2,2
+"190","Tunisia","TUN","beijing-2008",TRUE,10543000,1,0,0,0,0,0,1,1,1
+"191","Turkey","TUR","beijing-2008",TRUE,71562000,5,0,0,0,0,0,5,5,5
+"192","Turkmenistan","TKM","beijing-2008",TRUE,5345000,0,0,0,0,0,0,0,0,0
+"193","Tuvalu","TUV","beijing-2008",TRUE,10000,0,0,0,0,0,0,0,0,0
+"194","Uganda","UGA","beijing-2008",TRUE,30540000,0,0,0,0,0,0,0,0,0
+"195","Ukraine","UKR","beijing-2008",TRUE,46819000,20,0,0,0,0,2,22,22,22
+"196","United Arab Emirates","ARE","beijing-2008",TRUE,6303000,0,0,0,0,0,0,0,0,0
+"197","United States","USA","beijing-2008",TRUE,304970000,55,5,3,1,1,29,84,112,94
+"198","Uruguay","URY","beijing-2008",TRUE,3302000,0,0,0,0,0,0,0,0,0
+"199","Uzbekistan","UZB","beijing-2008",TRUE,27495000,4,0,0,0,0,0,4,4,4
+"200","Vanuatu","VUT","beijing-2008",TRUE,227000,0,0,0,0,0,0,0,0,0
+"201","Venezuela","VEN","beijing-2008",TRUE,28054000,1,0,0,0,0,0,1,1,1
+"202","Vietnam","VNM","beijing-2008",TRUE,85176000,1,0,0,0,0,0,1,1,1
+"203","Virgin Islands","VIR","beijing-2008",TRUE,107000,0,0,0,0,0,0,0,0,0
+"204","Yemen","YEM","beijing-2008",TRUE,25112000,0,0,0,0,0,0,0,0,0
+"205","Zambia","ZMB","beijing-2008",TRUE,13021000,0,0,0,0,0,0,0,0,0
+"206","Zimbabwe","ZWE","beijing-2008",TRUE,12959000,0,0,0,1,0,0,0,4,1

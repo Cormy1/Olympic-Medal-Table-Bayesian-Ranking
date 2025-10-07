@@ -1,0 +1,207 @@
+"","country","iso_a3","slug_game","competed","total_pop_july","Medals.1","Medals.2","Medals.3","Medals.4","Medals.5","Medals.team","Medals.1.team","Medals.total","Medals.unique"
+"1","Afghanistan","AFG","london-2012",TRUE,30560000,1,0,0,0,0,0,1,1,1
+"2","Albania","ALB","london-2012",TRUE,2910000,0,0,0,0,0,0,0,0,0
+"3","Algeria","DZA","london-2012",TRUE,37646000,1,0,0,0,0,0,1,1,1
+"4","American Samoa","ASM","london-2012",TRUE,54000,0,0,0,0,0,0,0,0,0
+"5","Andorra","AND","london-2012",TRUE,77000,0,0,0,0,0,0,0,0,0
+"6","Angola","AGO","london-2012",TRUE,25177000,0,0,0,0,0,0,0,0,0
+"7","Antigua and Barbuda","ATG","london-2012",TRUE,87000,0,0,0,0,0,0,0,0,0
+"8","Argentina","ARG","london-2012",TRUE,42162000,2,0,0,0,0,2,4,4,4
+"9","Armenia","ARM","london-2012",TRUE,2923000,2,0,0,0,0,0,2,2,2
+"10","Aruba","ABW","london-2012",TRUE,102000,0,0,0,0,0,0,0,0,0
+"11","Australia","AUS","london-2012",TRUE,22853000,16,1,0,0,0,17,33,35,34
+"12","Austria","AUT","london-2012",TRUE,8432000,0,0,0,0,0,0,0,0,0
+"13","Azerbaijan","AZE","london-2012",TRUE,9376000,10,0,0,0,0,0,10,10,10
+"14","Bahamas","BHS","london-2012",TRUE,375000,0,0,0,0,0,1,1,1,1
+"15","Bahrain","BHR","london-2012",TRUE,1216000,1,0,0,0,0,0,1,1,1
+"16","Bangladesh","BGD","london-2012",TRUE,155070000,0,0,0,0,0,0,0,0,0
+"17","Barbados","BRB","london-2012",TRUE,277000,0,0,0,0,0,0,0,0,0
+"18","Belarus","BLR","london-2012",TRUE,9463000,3,1,0,0,0,5,8,10,9
+"19","Belgium","BEL","london-2012",TRUE,11108000,3,0,0,0,0,0,3,3,3
+"20","Belize","BLZ","london-2012",TRUE,334000,0,0,0,0,0,0,0,0,0
+"21","Benin","BEN","london-2012",TRUE,10398000,0,0,0,0,0,0,0,0,0
+"22","Bermuda","BMU","london-2012",TRUE,64000,0,0,0,0,0,0,0,0,0
+"23","Bhutan","BTN","london-2012",TRUE,717000,0,0,0,0,0,0,0,0,0
+"24","Bolivia","BOL","london-2012",TRUE,10516000,0,0,0,0,0,0,0,0,0
+"25","Bosnia and Herzegovina","BIH","london-2012",TRUE,3670000,0,0,0,0,0,0,0,0,0
+"26","Botswana","BWA","london-2012",TRUE,2109000,1,0,0,0,0,0,1,1,1
+"27","Brazil","BRA","london-2012",TRUE,196876000,11,0,0,0,0,6,17,17,17
+"28","British Virgin Islands","VGB","london-2012",TRUE,30000,0,0,0,0,0,0,0,0,0
+"29","Brunei","BRN","london-2012",TRUE,406000,0,0,0,0,0,0,0,0,0
+"30","Bulgaria","BGR","london-2012",TRUE,7317000,3,0,0,0,0,0,3,3,3
+"31","Burkina Faso","BFA","london-2012",TRUE,17172000,0,0,0,0,0,0,0,0,0
+"32","Burundi","BDI","london-2012",TRUE,10071000,0,0,0,0,0,0,0,0,0
+"33","Cambodia","KHM","london-2012",TRUE,14945000,0,0,0,0,0,0,0,0,0
+"34","Cameroon","CMR","london-2012",TRUE,20810000,1,0,0,0,0,0,1,1,1
+"35","Canada","CAN","london-2012",TRUE,34923000,12,0,0,0,0,6,18,18,18
+"36","Cape Verde","CPV","london-2012",TRUE,512000,0,0,0,0,0,0,0,0,0
+"37","Cayman Islands","CYM","london-2012",TRUE,57000,0,0,0,0,0,0,0,0,0
+"38","Central African Republic","CAF","london-2012",TRUE,4611000,0,0,0,0,0,0,0,0,0
+"39","Chad","TCD","london-2012",TRUE,13211000,0,0,0,0,0,0,0,0,0
+"40","Chile","CHL","london-2012",TRUE,17519000,0,0,0,0,0,0,0,0,0
+"41","China","CHN","london-2012",TRUE,1369521000,64,3,1,0,0,18,82,91,86
+"42","Taiwan","TWN","london-2012",TRUE,23346000,2,0,0,0,0,0,2,2,2
+"43","Colombia","COL","london-2012",TRUE,45716000,9,0,0,0,0,0,9,9,9
+"44","Comoros","COM","london-2012",TRUE,682000,0,0,0,0,0,0,0,0,0
+"45","Republic of the Congo","COG","london-2012",TRUE,4740000,0,0,0,0,0,0,0,0,0
+"46","Democratic Republic of the Congo","COD","london-2012",TRUE,73255000,0,0,0,0,0,0,0,0,0
+"47","Cook Islands","COK","london-2012",TRUE,18000,0,0,0,0,0,0,0,0,0
+"48","Costa Rica","CRI","london-2012",TRUE,4664000,0,0,0,0,0,0,0,0,0
+"49","Ivory Coast","CIV","london-2012",TRUE,23467000,0,0,0,0,0,0,0,0,0
+"50","Croatia","HRV","london-2012",TRUE,4259000,3,0,0,0,0,3,6,6,6
+"51","Cuba","CUB","london-2012",TRUE,11303000,15,0,0,0,0,0,15,15,15
+"52","Cyprus","CYP","london-2012",TRUE,1165000,1,0,0,0,0,0,1,1,1
+"53","Czech Republic","CZE","london-2012",TRUE,10507000,9,0,0,0,0,2,11,11,11
+"54","Denmark","DNK","london-2012",TRUE,5592000,4,0,0,0,0,5,9,9,9
+"55","Djibouti","DJI","london-2012",TRUE,967000,0,0,0,0,0,0,0,0,0
+"56","Dominica","DMA","london-2012",TRUE,69000,0,0,0,0,0,0,0,0,0
+"57","Dominican Republic","DOM","london-2012",TRUE,10070000,2,0,0,0,0,0,2,2,2
+"58","Ecuador","ECU","london-2012",TRUE,15572000,0,0,0,0,0,0,0,0,0
+"59","Egypt","EGY","london-2012",TRUE,93161000,4,0,0,0,0,0,4,4,4
+"60","El Salvador","SLV","london-2012",TRUE,6114000,0,0,0,0,0,0,0,0,0
+"61","Equatorial Guinea","GNQ","london-2012",TRUE,1293000,0,0,0,0,0,0,0,0,0
+"62","Eritrea","ERI","london-2012",TRUE,3037000,0,0,0,0,0,0,0,0,0
+"63","Estonia","EST","london-2012",TRUE,1323000,2,0,0,0,0,0,2,2,2
+"64","Eswatini","SWZ","london-2012",TRUE,1124000,0,0,0,0,0,0,0,0,0
+"65","Ethiopia","ETH","london-2012",TRUE,95799000,5,1,0,0,0,0,5,7,6
+"66","Fiji","FJI","london-2012",TRUE,915000,0,0,0,0,0,0,0,0,0
+"67","Finland","FIN","london-2012",TRUE,5414000,2,0,0,0,0,1,3,3,3
+"68","France","FRA","london-2012",TRUE,64058000,23,1,0,0,0,10,33,35,34
+"69","Gabon","GAB","london-2012",TRUE,1847000,1,0,0,0,0,0,1,1,1
+"70","The Gambia","GMB","london-2012",TRUE,2043000,0,0,0,0,0,0,0,0,0
+"71","Georgia","GEO","london-2012",TRUE,3839000,6,0,0,0,0,0,6,6,6
+"72","Germany","DEU","london-2012",TRUE,80916000,27,1,0,0,0,15,42,44,43
+"73","Ghana","GHA","london-2012",TRUE,26734000,0,0,0,0,0,0,0,0,0
+"74","Great Britain","GBR","london-2012",TRUE,63960000,36,3,0,0,0,23,59,65,62
+"75","Greece","GRC","london-2012",TRUE,11048000,1,0,0,0,0,1,2,2,2
+"76","Grenada","GRD","london-2012",TRUE,113000,1,0,0,0,0,0,1,1,1
+"77","Guam","GUM","london-2012",TRUE,166000,0,0,0,0,0,0,0,0,0
+"78","Guatemala","GTM","london-2012",TRUE,15090000,1,0,0,0,0,0,1,1,1
+"79","Guinea","GIN","london-2012",TRUE,10922000,0,0,0,0,0,0,0,0,0
+"80","Guinea-Bissau","GNB","london-2012",TRUE,1651000,0,0,0,0,0,0,0,0,0
+"81","Guyana[GUY]","GUY","london-2012",TRUE,746000,0,0,0,0,0,0,0,0,0
+"82","Haiti","HTI","london-2012",TRUE,10070000,0,0,0,0,0,0,0,0,0
+"83","Honduras","HND","london-2012",TRUE,8715000,0,0,0,0,0,0,0,0,0
+"84","Hong Kong","HKG","london-2012",TRUE,7201000,1,0,0,0,0,0,1,1,1
+"85","Hungary","HUN","london-2012",TRUE,9917000,14,0,0,0,0,4,18,18,18
+"86","Iceland","ISL","london-2012",TRUE,321000,0,0,0,0,0,0,0,0,0
+"87","India","IND","london-2012",TRUE,1278675000,6,0,0,0,0,0,6,6,6
+"88","Indonesia","IDN","london-2012",TRUE,252699000,3,0,0,0,0,0,3,3,3
+"89","Iran","IRN","london-2012",TRUE,79371000,13,0,0,0,0,0,13,13,13
+"90","Iraq","IRQ","london-2012",TRUE,33655000,0,0,0,0,0,0,0,0,0
+"91","Ireland","IRL","london-2012",TRUE,4600000,6,0,0,0,0,0,6,6,6
+"92","Israel","ISR","london-2012",TRUE,7608000,0,0,0,0,0,0,0,0,0
+"93","Italy","ITA","london-2012",TRUE,60532000,18,1,0,0,0,8,26,28,27
+"94","Jamaica","JAM","london-2012",TRUE,2772000,3,3,0,0,0,3,6,12,9
+"95","Japan","JPN","london-2012",TRUE,127928000,23,3,0,0,0,9,32,38,35
+"96","Jordan","JOR","london-2012",TRUE,7587000,0,0,0,0,0,0,0,0,0
+"97","Kazakhstan","KAZ","london-2012",TRUE,17306000,11,0,0,0,0,0,11,11,11
+"98","Kenya","KEN","london-2012",TRUE,43888000,10,1,0,0,0,0,10,12,11
+"99","Kiribati","KIR","london-2012",TRUE,112000,0,0,0,0,0,0,0,0,0
+"100","North Korea","PRK","london-2012",TRUE,25212000,7,0,0,0,0,0,7,7,7
+"101","South Korea","KOR","london-2012",TRUE,49600000,18,2,0,0,0,8,26,30,28
+"102","Kosovo","XKX","london-2012",FALSE,1807000,0,0,0,0,0,0,0,0,0
+"103","Kuwait","KWT","london-2012",TRUE,3337000,1,0,0,0,0,0,1,1,1
+"104","Kyrgyzstan","KGZ","london-2012",TRUE,5697000,0,0,0,0,0,0,0,0,0
+"105","Laos","LAO","london-2012",TRUE,6519000,0,0,0,0,0,0,0,0,0
+"106","Latvia","LVA","london-2012",TRUE,2035000,1,0,0,0,0,1,2,2,2
+"107","Lebanon","LBN","london-2012",TRUE,5236000,0,0,0,0,0,0,0,0,0
+"108","Lesotho","LSO","london-2012",TRUE,2034000,0,0,0,0,0,0,0,0,0
+"109","Liberia","LBR","london-2012",TRUE,4373000,0,0,0,0,0,0,0,0,0
+"110","Libya","LBY","london-2012",TRUE,6179000,0,0,0,0,0,0,0,0,0
+"111","Liechtenstein","LIE","london-2012",TRUE,37000,0,0,0,0,0,0,0,0,0
+"112","Lithuania","LTU","london-2012",TRUE,2988000,5,0,0,0,0,0,5,5,5
+"113","Luxembourg","LUX","london-2012",TRUE,531000,0,0,0,0,0,0,0,0,0
+"114","Madagascar","MDG","london-2012",TRUE,23462000,0,0,0,0,0,0,0,0,0
+"115","Malawi","MWI","london-2012",TRUE,15710000,0,0,0,0,0,0,0,0,0
+"116","Malaysia","MYS","london-2012",TRUE,29663000,2,0,0,0,0,0,2,2,2
+"117","Maldives","MDV","london-2012",TRUE,387000,0,0,0,0,0,0,0,0,0
+"118","Mali","MLI","london-2012",TRUE,16957000,0,0,0,0,0,0,0,0,0
+"119","Malta","MLT","london-2012",TRUE,427000,0,0,0,0,0,0,0,0,0
+"120","Marshall Islands","MHL","london-2012",TRUE,51000,0,0,0,0,0,0,0,0,0
+"121","Mauritania","MRT","london-2012",TRUE,3619000,0,0,0,0,0,0,0,0,0
+"122","Mauritius","MUS","london-2012",TRUE,1289000,0,0,0,0,0,0,0,0,0
+"123","Mexico","MEX","london-2012",TRUE,116818000,5,0,0,0,0,3,8,8,8
+"124","Federated States of Micronesia","FSM","london-2012",TRUE,108000,0,0,0,0,0,0,0,0,0
+"125","Moldova","MDA","london-2012",TRUE,3483000,0,0,0,0,0,0,0,0,0
+"126","Monaco","MCO","london-2012",TRUE,35000,0,0,0,0,0,0,0,0,0
+"127","Mongolia","MNG","london-2012",TRUE,2795000,5,0,0,0,0,0,5,5,5
+"128","Montenegro","MNE","london-2012",TRUE,634000,0,0,0,0,0,1,1,1,1
+"129","Morocco","MAR","london-2012",TRUE,33355000,1,0,0,0,0,0,1,1,1
+"130","Mozambique","MOZ","london-2012",TRUE,24338000,0,0,0,0,0,0,0,0,0
+"131","Myanmar","MMR","london-2012",TRUE,49837000,0,0,0,0,0,0,0,0,0
+"132","Namibia","NAM","london-2012",TRUE,2195000,0,0,0,0,0,0,0,0,0
+"133","Nauru","NRU","london-2012",TRUE,10000,0,0,0,0,0,0,0,0,0
+"134","Nepal","NPL","london-2012",TRUE,27535000,0,0,0,0,0,0,0,0,0
+"135","Netherlands","NLD","london-2012",TRUE,16915000,11,1,0,0,0,7,18,20,19
+"136","New Zealand","NZL","london-2012",TRUE,4412000,5,0,0,0,0,8,13,13,13
+"137","Nicaragua","NIC","london-2012",TRUE,5901000,0,0,0,0,0,0,0,0,0
+"138","Niger","NER","london-2012",TRUE,17837000,0,0,0,0,0,0,0,0,0
+"139","Nigeria","NGA","london-2012",TRUE,176201000,0,0,0,0,0,0,0,0,0
+"140","North Macedonia","MKD","london-2012",TRUE,2027000,0,0,0,0,0,0,0,0,0
+"141","Norway","NOR","london-2012",TRUE,5018000,3,0,0,0,0,1,4,4,4
+"142","Oman","OMN","london-2012",TRUE,3547000,0,0,0,0,0,0,0,0,0
+"143","Pakistan","PAK","london-2012",TRUE,207667000,0,0,0,0,0,0,0,0,0
+"144","Palau","PLW","london-2012",TRUE,18000,0,0,0,0,0,0,0,0,0
+"145","Palestine","PSE","london-2012",TRUE,4215000,0,0,0,0,0,0,0,0,0
+"146","Panama","PAN","london-2012",TRUE,3759000,0,0,0,0,0,0,0,0,0
+"147","Papua New Guinea","PNG","london-2012",TRUE,8081000,0,0,0,0,0,0,0,0,0
+"148","Paraguay","PRY","london-2012",TRUE,5897000,0,0,0,0,0,0,0,0,0
+"149","Peru","PER","london-2012",TRUE,29550000,0,0,0,0,0,0,0,0,0
+"150","Philippines","PHL","london-2012",TRUE,100176000,0,0,0,0,0,0,0,0,0
+"151","Poland","POL","london-2012",TRUE,38248000,9,0,0,0,0,2,11,11,11
+"152","Portugal","PRT","london-2012",TRUE,10513000,0,0,0,0,0,1,1,1,1
+"153","Puerto Rico","PRI","london-2012",TRUE,3646000,2,0,0,0,0,0,2,2,2
+"154","Qatar","QAT","london-2012",TRUE,1907000,2,0,0,0,0,0,2,2,2
+"155","Romania","ROU","london-2012",TRUE,20158000,5,0,0,0,0,2,7,7,7
+"156","Russia","RUS","london-2012",TRUE,144291000,47,2,1,0,0,13,60,67,63
+"157","Rwanda","RWA","london-2012",TRUE,10830000,0,0,0,0,0,0,0,0,0
+"158","Saint Kitts and Nevis","KNA","london-2012",TRUE,47000,0,0,0,0,0,0,0,0,0
+"159","Saint Lucia","LCA","london-2012",TRUE,173000,0,0,0,0,0,0,0,0,0
+"160","Saint Vincent and the Grenadines","VCT","london-2012",TRUE,109000,0,0,0,0,0,0,0,0,0
+"161","Samoa","WSM","london-2012",TRUE,196000,0,0,0,0,0,0,0,0,0
+"162","San Marino","SMR","london-2012",TRUE,33000,0,0,0,0,0,0,0,0,0
+"163","São Tomé and Príncipe","STP","london-2012",TRUE,189000,0,0,0,0,0,0,0,0,0
+"164","Saudi Arabia","SAU","london-2012",TRUE,27062000,0,0,0,0,0,1,1,1,1
+"165","Senegal","SEN","london-2012",TRUE,13310000,0,0,0,0,0,0,0,0,0
+"166","Serbia","SRB","london-2012",TRUE,7325000,3,0,0,0,0,1,4,4,4
+"167","Seychelles","SYC","london-2012",TRUE,1e+05,0,0,0,0,0,0,0,0,0
+"168","Sierra Leone","SLE","london-2012",TRUE,6551000,0,0,0,0,0,0,0,0,0
+"169","Singapore","SGP","london-2012",TRUE,5293000,1,0,0,0,0,1,2,2,2
+"170","Slovakia","SVK","london-2012",TRUE,5405000,3,0,0,0,0,1,4,4,4
+"171","Slovenia","SVN","london-2012",TRUE,2053000,3,0,0,0,0,1,4,4,4
+"172","Solomon Islands","SLB","london-2012",TRUE,574000,0,0,0,0,0,0,0,0,0
+"173","Somalia","SOM","london-2012",TRUE,12461000,0,0,0,0,0,0,0,0,0
+"174","South Africa","ZAF","london-2012",TRUE,53783000,3,1,0,0,0,1,4,6,5
+"175","Spain","ESP","london-2012",TRUE,47018000,12,1,0,0,0,6,18,20,19
+"176","Sri Lanka","LKA","london-2012",TRUE,21169000,0,0,0,0,0,0,0,0,0
+"177","Sudan","SDN","london-2012",TRUE,36923000,0,0,0,0,0,0,0,0,0
+"178","South Sudan","SSD","london-2012",FALSE,10756000,0,0,0,0,0,0,0,0,0
+"179","Suriname","SUR","london-2012",TRUE,563000,0,0,0,0,0,0,0,0,0
+"180","Sweden","SWE","london-2012",TRUE,9519000,6,0,0,0,0,2,8,8,8
+"181","Switzerland","CHE","london-2012",TRUE,7999000,4,0,0,0,0,0,4,4,4
+"182","Syria","SYR","london-2012",TRUE,22760000,0,0,0,0,0,0,0,0,0
+"183","Tajikistan","TJK","london-2012",TRUE,8014000,1,0,0,0,0,0,1,1,1
+"184","Tanzania","TZA","london-2012",TRUE,47374000,0,0,0,0,0,0,0,0,0
+"185","Thailand","THA","london-2012",TRUE,69436000,4,0,0,0,0,0,4,4,4
+"186","East Timor","TLS","london-2012",TRUE,1135000,0,0,0,0,0,0,0,0,0
+"187","Togo","TGO","london-2012",TRUE,7101000,0,0,0,0,0,0,0,0,0
+"188","Tonga","TON","london-2012",TRUE,107000,0,0,0,0,0,0,0,0,0
+"189","Trinidad and Tobago","TTO","london-2012",TRUE,1404000,2,0,0,0,0,2,4,4,4
+"190","Tunisia","TUN","london-2012",TRUE,11010000,1,1,0,0,0,0,1,3,2
+"191","Turkey","TUR","london-2012",TRUE,75197000,3,0,0,0,0,0,3,3,3
+"192","Turkmenistan","TKM","london-2012",TRUE,5809000,0,0,0,0,0,0,0,0,0
+"193","Tuvalu","TUV","london-2012",TRUE,11000,0,0,0,0,0,0,0,0,0
+"194","Uganda","UGA","london-2012",TRUE,34337000,1,0,0,0,0,0,1,1,1
+"195","Ukraine","UKR","london-2012",TRUE,46210000,12,2,0,0,0,3,15,19,17
+"196","United Arab Emirates","ARE","london-2012",TRUE,7497000,0,0,0,0,0,0,0,0,0
+"197","United States","USA","london-2012",TRUE,317115000,55,7,2,0,0,29,84,104,93
+"198","Uruguay","URY","london-2012",TRUE,3335000,0,0,0,0,0,0,0,0,0
+"199","Uzbekistan","UZB","london-2012",TRUE,29262000,2,0,0,0,0,0,2,2,2
+"200","Vanuatu","VUT","london-2012",TRUE,249000,0,0,0,0,0,0,0,0,0
+"201","Venezuela","VEN","london-2012",TRUE,29554000,1,0,0,0,0,0,1,1,1
+"202","Vietnam","VNM","london-2012",TRUE,89510000,0,0,0,0,0,0,0,0,0
+"203","Virgin Islands","VIR","london-2012",TRUE,104000,0,0,0,0,0,0,0,0,0
+"204","Yemen","YEM","london-2012",TRUE,28434000,0,0,0,0,0,0,0,0,0
+"205","Zambia","ZMB","london-2012",TRUE,14914000,0,0,0,0,0,0,0,0,0
+"206","Zimbabwe","ZWE","london-2012",TRUE,13818000,0,0,0,0,0,0,0,0,0
