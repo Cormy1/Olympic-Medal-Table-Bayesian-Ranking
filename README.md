@@ -32,11 +32,11 @@ Posterior samples are **ranked within each iteration**, producing **posterior di
 
 The algorithm supports several prior specifications, each defined in `R/jags_model.R`:  
 
-| Model | Prior on \(p_c\) | Notes |
+| Model | Prior on $p_c$ | Notes |
 |--------|------------------|-------|
-| **`beta`** | \(p_c \sim \text{Beta}(a, b)\) with hyperpriors \(a \sim U(0,1)\), \(b \sim U(10^4,10^8)\) | Conditional probabilities shared across all countries |
-| **`beta-2`** | Adds country-level variation: \(X_1[i], X_2[i] \sim \text{Beta}(a_k,b_k)\) | Country specific conditional probability for double medallists |
-| **`logit-normal`** | \(\text{logit}(p_c) \sim N(\mu, \tau^{-1})\) | heavyier tail prior|
+| **`beta`** | $p_c \sim \text{Beta}(a, b)$ with hyperpriors $a \sim U(0,1)$, $b \sim U(10^4,10^8)$ | Conditional probabilities shared across all countries |
+| **`beta-2`** | Adds country-level variation: $X_1[i], X_2[i] \sim \text{Beta}(a_k,b_k)$ | Country specific conditional probability for double medallists |
+| **`logit-normal`** | $\text{logit}(p_c) \sim N(\mu, \tau^{-1})$ | heavyier tail prior|
 | **`mixture-beta`** | Mixture of multiple Beta components | Should capture multimodal medal-performance distributions - if they exist. |
 
 All models assume the number of medal-winning athletes for a country follows Poisson processes conditioned on these probabilities.  
