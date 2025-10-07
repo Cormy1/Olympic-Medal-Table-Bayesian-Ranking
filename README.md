@@ -1,4 +1,4 @@
-# README: Bayesian Ranking Algorithm for Olympic Medal Efficiency  
+# README: Bayesian Ranking Algorithm for Olympic Medal Table
 
 This repository implements a **Bayesian ranking model** for Olympic medal performance.  The method aims to estimate each nation’s *long-run per-capita medal probability*, producing rankings that better balances performance across large and small countries by applying **Bayesian shrinkage**.  
 
