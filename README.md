@@ -18,11 +18,11 @@ Each country’s medal-winning process is modeled through the probability that a
 
 The key estimated quantity is the **posterior distribution of the per-capita medal rate**:  
 
-\[
+$$
 E(M_c/n_c) = p_{1,c} + 2p_{2,c} + 3p_{3,c} + 4p_{4,c}
-\]  
+$$ 
 
-where \(p_{i,c}\) is the probability that an individual from country \(c\) wins exactly *i* medals.  
+where $p_{i,c}$ is the probability that an individual from country $c$ wins exactly *i* medals.  
 
 Posterior samples are **ranked within each iteration**, producing **posterior distributions of ranks** from which each country is ranked based on a central measure - here taken as the mean.
 
